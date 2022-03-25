@@ -23,7 +23,7 @@ It contains the list of books in store and contains information about its copies
   
  ** Installation and Running the server **
  * Create a virtual environment.
- * git clone https://github.com/Manikaran20/Books-Inventory.git
+ * git clone https://github.com/suhelkhan2001/SpoonshotAssignment12.git
  
 ** Install Requirements **
   * pip install -r requirements.txt
